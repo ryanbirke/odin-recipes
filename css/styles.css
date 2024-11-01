@@ -12,3 +12,26 @@ ul li {
    padding: 5px;
    color: brown;
 }
+
+.description {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ingredients {
+    font-family: 'Comic Sans MS', 'Comic Sans', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.steps {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.highlight {
+    color: greenyellow;
+    background-color: blue;
+}
+
+strong.highlight {
+    color: white;
+    background-color: purple;
+    font-size: 18px;
+}
